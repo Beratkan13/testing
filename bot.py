@@ -65,4 +65,4 @@ async def ping(ctx):
     await ctx.send(embed=embed)
 
 # Botunuzun token'ını buraya ekleyin
-bot.run('TOKEN_BURAYA')
+bot.run('@me')
